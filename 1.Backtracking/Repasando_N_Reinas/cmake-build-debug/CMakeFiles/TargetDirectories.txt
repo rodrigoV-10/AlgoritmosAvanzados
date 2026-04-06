@@ -1,0 +1,3 @@
+D:/2.ALGORITMOS_AVANZADOS/Repasando_N_Reinas/cmake-build-debug/CMakeFiles/Repasando_N_Reinas.dir
+D:/2.ALGORITMOS_AVANZADOS/Repasando_N_Reinas/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/2.ALGORITMOS_AVANZADOS/Repasando_N_Reinas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
