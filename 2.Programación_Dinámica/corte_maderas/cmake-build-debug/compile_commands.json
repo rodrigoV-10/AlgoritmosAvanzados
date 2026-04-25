@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/2.ALGORITMOS_AVANZADOS/PROGRAMACION_DINAMICA/corte_maderas/cmake-build-debug",
+  "command": "\"D:\\Programas_DiscoD\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\corte_maderas.dir\\main.cpp.obj -c D:\\2.ALGORITMOS_AVANZADOS\\PROGRAMACION_DINAMICA\\corte_maderas\\main.cpp",
+  "file": "D:/2.ALGORITMOS_AVANZADOS/PROGRAMACION_DINAMICA/corte_maderas/main.cpp",
+  "output": "D:/2.ALGORITMOS_AVANZADOS/PROGRAMACION_DINAMICA/corte_maderas/cmake-build-debug/CMakeFiles/corte_maderas.dir/main.cpp.obj"
+}
+]
