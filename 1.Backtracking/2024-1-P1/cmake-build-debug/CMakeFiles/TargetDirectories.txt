@@ -1,0 +1,3 @@
+D:/2.ALGORITMOS_AVANZADOS/BACKTRACKING/2024-1-P1/cmake-build-debug/CMakeFiles/2024_1_P1.dir
+D:/2.ALGORITMOS_AVANZADOS/BACKTRACKING/2024-1-P1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/2.ALGORITMOS_AVANZADOS/BACKTRACKING/2024-1-P1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

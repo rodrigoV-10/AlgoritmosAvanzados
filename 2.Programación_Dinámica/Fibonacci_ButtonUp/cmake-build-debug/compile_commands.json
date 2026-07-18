@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/2.ALGORITMOS_AVANZADOS/PROGRAMACION_DINAMICA/Fibonacci_ButtonUp/cmake-build-debug",
+  "command": "\"D:\\Programas_DiscoD\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Fibonacci_ButtonUp.dir\\main.cpp.obj -c D:\\2.ALGORITMOS_AVANZADOS\\PROGRAMACION_DINAMICA\\Fibonacci_ButtonUp\\main.cpp",
+  "file": "D:/2.ALGORITMOS_AVANZADOS/PROGRAMACION_DINAMICA/Fibonacci_ButtonUp/main.cpp",
+  "output": "D:/2.ALGORITMOS_AVANZADOS/PROGRAMACION_DINAMICA/Fibonacci_ButtonUp/cmake-build-debug/CMakeFiles/Fibonacci_ButtonUp.dir/main.cpp.obj"
+}
+]
