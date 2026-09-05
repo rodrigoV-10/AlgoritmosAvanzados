@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/MejorMontoRobotMinero/cmake-build-debug",
+	"dir-cur-src" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/MejorMontoRobotMinero",
+	"dir-top-bld" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/MejorMontoRobotMinero/cmake-build-debug",
+	"dir-top-src" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/MejorMontoRobotMinero",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/MejorMontoRobotMinero/cmake-build-debug/CMakeFiles/MejorMontoRobotMinero.dir",
+	"sources" : 
+	{
+		"CMakeFiles/MejorMontoRobotMinero.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/MejorMontoRobotMinero/main.cpp"
+		}
+	}
+}

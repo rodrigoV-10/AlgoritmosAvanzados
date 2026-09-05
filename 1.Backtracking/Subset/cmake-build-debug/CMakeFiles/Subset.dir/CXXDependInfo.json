@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/Subset/cmake-build-debug",
+	"dir-cur-src" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/Subset",
+	"dir-top-bld" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/Subset/cmake-build-debug",
+	"dir-top-src" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/Subset",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/Subset/cmake-build-debug/CMakeFiles/Subset.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Subset.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/UNIVERSIDAD/AlgoritmosAvanzados/Subset/main.cpp"
+		}
+	}
+}
