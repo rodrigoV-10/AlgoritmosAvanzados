@@ -1,0 +1,3 @@
+C:/UNIVERSIDAD/AlgoritmosAvanzados/ProgramacionDinamica/Partition/cmake-build-debug/CMakeFiles/Partition.dir
+C:/UNIVERSIDAD/AlgoritmosAvanzados/ProgramacionDinamica/Partition/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/UNIVERSIDAD/AlgoritmosAvanzados/ProgramacionDinamica/Partition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
