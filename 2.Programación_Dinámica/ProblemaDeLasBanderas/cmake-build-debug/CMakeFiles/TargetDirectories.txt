@@ -1,0 +1,3 @@
+D:/Avanzados/ProblemaDeLasBanderas/cmake-build-debug/CMakeFiles/ProblemaDeLasBanderas.dir
+D:/Avanzados/ProblemaDeLasBanderas/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Avanzados/ProblemaDeLasBanderas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
