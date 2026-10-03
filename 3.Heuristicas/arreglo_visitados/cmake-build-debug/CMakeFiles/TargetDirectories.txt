@@ -1,3 +1,0 @@
-C:/UNIVERSIDAD/AlgoritmosAvanzados/Heuristicas/grafos/arreglo_visitados/cmake-build-debug/CMakeFiles/arreglo_visitados.dir
-C:/UNIVERSIDAD/AlgoritmosAvanzados/Heuristicas/grafos/arreglo_visitados/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/UNIVERSIDAD/AlgoritmosAvanzados/Heuristicas/grafos/arreglo_visitados/cmake-build-debug/CMakeFiles/rebuild_cache.dir
