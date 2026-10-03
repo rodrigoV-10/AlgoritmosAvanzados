@@ -1,0 +1,3 @@
+C:/UNIVERSIDAD/AlgoritmosAvanzados/MejorMontoRobotMinero/cmake-build-debug/CMakeFiles/MejorMontoRobotMinero.dir
+C:/UNIVERSIDAD/AlgoritmosAvanzados/MejorMontoRobotMinero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/UNIVERSIDAD/AlgoritmosAvanzados/MejorMontoRobotMinero/cmake-build-debug/CMakeFiles/rebuild_cache.dir

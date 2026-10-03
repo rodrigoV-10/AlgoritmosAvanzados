@@ -1,0 +1,3 @@
+C:/UNIVERSIDAD/AlgoritmosAvanzados/Subset/cmake-build-debug/CMakeFiles/Subset.dir
+C:/UNIVERSIDAD/AlgoritmosAvanzados/Subset/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/UNIVERSIDAD/AlgoritmosAvanzados/Subset/cmake-build-debug/CMakeFiles/rebuild_cache.dir

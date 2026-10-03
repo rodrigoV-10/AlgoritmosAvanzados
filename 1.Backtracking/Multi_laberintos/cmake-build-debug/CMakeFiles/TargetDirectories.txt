@@ -1,0 +1,3 @@
+D:/2.ALGORITMOS_AVANZADOS/BACKTRACKING/Multi_laberintos/cmake-build-debug/CMakeFiles/Multi_laberintos.dir
+D:/2.ALGORITMOS_AVANZADOS/BACKTRACKING/Multi_laberintos/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/2.ALGORITMOS_AVANZADOS/BACKTRACKING/Multi_laberintos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

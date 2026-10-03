@@ -1,0 +1,3 @@
+C:/UNIVERSIDAD/AlgoritmosAvanzados/P2-2025.1/cmake-build-debug/CMakeFiles/P2_2025_1.dir
+C:/UNIVERSIDAD/AlgoritmosAvanzados/P2-2025.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/UNIVERSIDAD/AlgoritmosAvanzados/P2-2025.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
