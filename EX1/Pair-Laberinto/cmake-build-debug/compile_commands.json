@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/UNIVERSIDAD/AlgoritmosAvanzados/PARCIAL/Pair-Laberinto/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Pair_Laberinto.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Pair_Laberinto.dir\\main.cpp.obj -c C:\\UNIVERSIDAD\\AlgoritmosAvanzados\\PARCIAL\\Pair-Laberinto\\main.cpp",
-  "file": "C:/UNIVERSIDAD/AlgoritmosAvanzados/PARCIAL/Pair-Laberinto/main.cpp",
-  "output": "C:/UNIVERSIDAD/AlgoritmosAvanzados/PARCIAL/Pair-Laberinto/cmake-build-debug/CMakeFiles/Pair_Laberinto.dir/main.cpp.obj"
-}
-]

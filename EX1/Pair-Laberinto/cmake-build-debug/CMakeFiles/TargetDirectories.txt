@@ -1,3 +1,0 @@
-C:/UNIVERSIDAD/AlgoritmosAvanzados/PARCIAL/Pair-Laberinto/cmake-build-debug/CMakeFiles/Pair_Laberinto.dir
-C:/UNIVERSIDAD/AlgoritmosAvanzados/PARCIAL/Pair-Laberinto/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/UNIVERSIDAD/AlgoritmosAvanzados/PARCIAL/Pair-Laberinto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
