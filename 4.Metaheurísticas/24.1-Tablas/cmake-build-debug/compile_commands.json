@@ -1,8 +1,8 @@
 [
 {
-  "directory": "D:/2.ALGORITMOS_AVANZADOS/METAHEURISTICAS/24.1-Tablas/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\24_1_Tablas.dir\\main.cpp.obj -c D:\\2.ALGORITMOS_AVANZADOS\\METAHEURISTICAS\\24.1-Tablas\\main.cpp",
-  "file": "D:/2.ALGORITMOS_AVANZADOS/METAHEURISTICAS/24.1-Tablas/main.cpp",
-  "output": "D:/2.ALGORITMOS_AVANZADOS/METAHEURISTICAS/24.1-Tablas/cmake-build-debug/CMakeFiles/24_1_Tablas.dir/main.cpp.obj"
+  "directory": "C:/UNIVERSIDAD/AlgoritmosAvanzados/4.Metaheurísticas/24.1-Tablas/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\24_1_Tablas.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\24_1_Tablas.dir\\main.cpp.obj -c C:\\UNIVERSIDAD\\AlgoritmosAvanzados\\4.Metaheurísticas\\24.1-Tablas\\main.cpp",
+  "file": "C:/UNIVERSIDAD/AlgoritmosAvanzados/4.Metaheurísticas/24.1-Tablas/main.cpp",
+  "output": "C:/UNIVERSIDAD/AlgoritmosAvanzados/4.Metaheurísticas/24.1-Tablas/cmake-build-debug/CMakeFiles/24_1_Tablas.dir/main.cpp.obj"
 }
 ]
